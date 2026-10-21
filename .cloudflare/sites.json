@@ -1,6 +1,6 @@
 [
   {
-    "project": "a-job-for-jeff",
+    "project": "a-job-for-jeff-website",
     "source": ".",
     "worker": false,
     "files": [
